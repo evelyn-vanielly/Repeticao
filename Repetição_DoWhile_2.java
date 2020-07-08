@@ -22,7 +22,7 @@ public class Exercicio6 {
 			
 		}while (num!=0);
 		
-		media=soma/x;
+		media=soma/x-1;
 		
 		System.out.println ("A media dos multiplos de 3 é: "+ media);
 		
