@@ -11,7 +11,7 @@ public class Exercicio6 {
 		
 		do
 		{
-			System.out.println("Insira um número de 1 a 9: ");
+			System.out.println("Insira um nÃºmero de 1 a 9: ");
 			num = ler.nextInt();
 			
 			if (num%3==0) 
@@ -24,7 +24,7 @@ public class Exercicio6 {
 		
 		media=soma/x;
 		
-		System.out.println ("A media dos multiplos de 3 é: "+ media);
+		System.out.println ("A media dos multiplos de 3 Ã©: "+ media);
 		
 	} 
 	
