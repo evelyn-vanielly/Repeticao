@@ -57,11 +57,11 @@ public class Exercicio4 {
 					{
 					pc++;
 					}
-		} System.out.println ("O número de pessoas calmas é de: "+c);
-		  System.out.println ("O número de mulheres nervosas é de: "+n);
-		  System.out.println("O número de homens agressivos é de: "+a);
-		  System.out.println("O número de pessoas nervosas com mais de 40 anos é: "+pn);
-		  System.out.println("O número de pessoas calmas com menos de 18 anos é: "+pc);
+		} System.out.println ("O nÃºmero de pessoas calmas Ã© de: "+c);
+		  System.out.println ("O nÃºmero de mulheres nervosas Ã© de: "+n);
+		  System.out.println("O nÃºmero de homens agressivos Ã© de: "+a);
+		  System.out.println("O nÃºmero de pessoas nervosas com mais de 40 anos Ã©: "+pn);
+		  System.out.println("O nÃºmero de pessoas calmas com menos de 18 anos Ã©: "+pc);
 		
 	}
 
