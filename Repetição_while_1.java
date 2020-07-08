@@ -27,8 +27,8 @@ public class Exercicio3 {
 					
 		} 
 		
-		System.out.println("O total de pessoas com menos de 21 anos é: "+total21);
-		  System.out.println("O total de pessoas com mais de 50 anos é: "+total50);
+		System.out.println("O total de pessoas com menos de 21 anos Ã©: "+total21);
+		  System.out.println("O total de pessoas com mais de 50 anos Ã©: "+total50);
 		   
 	} 
 	
